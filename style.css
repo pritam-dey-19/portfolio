@@ -1,0 +1,63 @@
+* {
+  margin: 0;
+}
+.header {
+  background-color: darkslategrey;
+}
+#brand {
+  float: left;
+  width: 40%;
+  text-align: center;
+  line-height: 70px;
+  background-color: rgb(136, 33, 64);
+}
+#nav {
+  width: 60%;
+  float: right;
+  line-height: 70px;
+  background-color: rgb(136, 33, 64);
+}
+a {
+  text-decoration: none;
+  padding: 20px;
+  color: aliceblue;
+}
+img {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  padding: 30px;
+  margin-top: 50px;
+}
+h4 {
+  margin-top: 30px;
+  padding: 20px;
+}
+
+#greetings {
+  margin-top: 5px;
+  padding: 20px;
+}
+
+p {
+  text-align: left;
+  padding: 10px;
+  margin: 10px;
+}
+.second {
+  width: 100%;
+}
+.second h2 {
+  text-align: center;
+}
+.second img {
+  height: 200px;
+  width: 200px;
+  margin: auto;
+}
+#footer {
+  background-color: rgb(82, 17, 17);
+  color: cornsilk;
+  text-align: center;
+  padding: 20px;
+}
