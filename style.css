@@ -55,6 +55,20 @@ p {
   width: 200px;
   margin: auto;
 }
+#space {
+  margin-top: 100px;
+  text-align: center;
+  font-size: 25px;
+}
+#projects {
+  margin-top: 40px;
+  padding: 25px 40px;
+  border: border-box;
+}
+li {
+  margin: 15px;
+  margin-bottom: 10px;
+}
 #footer {
   background-color: rgb(82, 17, 17);
   color: cornsilk;
